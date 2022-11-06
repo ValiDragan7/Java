@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../C++"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "Automatfinit"
+		},
+		{
+			"path": "../VisualJava"
+		},
+		{
+			"path": "../Swing"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"iostream": "cpp"
+		},
+		"java.project.sourcePaths": [
+			""
+		]
+	}
+}
