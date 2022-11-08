@@ -1,8 +1,6 @@
 import javax.swing.*;
-
 import java.awt.Color;
 import java.awt.Font;
-import java.awt.event.*;
 
 public class ProgresBar {
     JFrame frame = new JFrame();
